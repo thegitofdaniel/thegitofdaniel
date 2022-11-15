@@ -2,4 +2,4 @@
 - 👀 I’m interested in Azure, Environment, Finance, Running.
 - 🌱 I’m currently learning Databricks, MLOPS.
 - 💞️ I’m looking to collaborate on Data Science, Data Engineering, MLOPS
-- 📫 How to reach me: daniel.ruiz@bocconialumni.it
+- 📫 How to reach me: daniel.rocharuiz@bocconialumni.it
