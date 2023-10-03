@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel, @thegitofdaniel
-- 👀 I’m interested in Azure, Environment, Finance, Running.
-- 🌱 I’m currently learning Databricks, MLOPS.
-- 💞️ I’m looking to collaborate on Data Science, Data Engineering, MLOPS
+- 👀 I’m interested in Azure, Environment, Running.
+- 🌱 I-m an Azure Expert. I’m currently learning Databricks, Snowflake.
+- 💞️ I’m looking to collaborate on Data Science (AIML), Machine Learning Engineering (MLE/MLOPS).
 - 📫 How to reach me: daniel.rocharuiz@bocconialumni.it
