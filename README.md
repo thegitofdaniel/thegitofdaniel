@@ -2,4 +2,4 @@
 - 👀 I’m interested in Azure, Environment, Running.
 - 🌱 I-m an Azure Expert. I’m currently learning Databricks, Snowflake.
 - 💞️ I’m looking to collaborate on Data Science (AIML), Machine Learning Engineering (MLE/MLOPS).
-- 📫 How to reach me: danielruiz.nl
+- 📫 How to reach me: [danielruiz.nl](danielruiz.nl)
